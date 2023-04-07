@@ -8,5 +8,5 @@
 
 | OPC Client-Server Diagram |
 |:--:|
-|![space-1.jpg](https://user-images.githubusercontent.com/100642061/230538520-f747738b-4957-4136-b8ee-0ef539871e80.png)|
+|![space-1.jpg](https://user-images.githubusercontent.com/100642061/230542834-6edc9795-ded5-4e31-8161-138feabf0979.png)|
 |I made this diagram using [Diagrams.net](https://app.diagrams.net/).|
