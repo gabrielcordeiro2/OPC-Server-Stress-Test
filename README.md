@@ -3,7 +3,7 @@
 
 - [x] Create simple Client-Server OPC
 - [x] Design Architecture diagram
-- [ ] Implement Client-Server in Docker
+- [x] Implement Client-Server in Docker
 - [ ] Scale with Kubernetes
 
 | OPC Client-Server Diagram |

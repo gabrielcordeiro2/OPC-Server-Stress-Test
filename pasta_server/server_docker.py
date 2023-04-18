@@ -11,7 +11,8 @@ load_dotenv()
 async def main():
     server = Server()
     await server.init()
-    URL = os.getenv('OPC_SERVER_URL')
+    # URL = os.getenv('OPC_SERVER_URL')
+    URL = "opc.tcp://0.0.0.0:4842/freeopcua/server/"
     server.set_endpoint(URL)
 
     # Configurar o namespace do servidor
